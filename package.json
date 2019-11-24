@@ -1,13 +1,15 @@
 {
-  "name": "react-webpack-typescript-office-ui-fabric-starter",
-  "version": "0.1.1",
+  "name": "office-ui-fabric-react-typescript-webpack",
+  "version": "0.0.1",
   "description": "Starter kit for React, Webpack (with Hot Module Replacement), Typescript, Babel, and Office UI Fabric.",
   "keywords": [
     "react",
     "webpack",
     "typescript",
     "babel",
-    "office-ui-fabric",
+    "office-ui-fabric-react",
+    "office-ui-fabric-core",
+    "ui-fabric",
     "sass",
     "hmr",
     "starter",
