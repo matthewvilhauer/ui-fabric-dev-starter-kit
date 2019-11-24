@@ -1,9 +1,10 @@
-# React Webpack Typescript Starter
-> Minimal starter with hot module replacement (HMR) for rapid development.
+# React Webpack Typescript Office UI Fabric Starter
+> Minimal starter with hot module replacement (HMR) for rapid development with the Office UI Fabric UX framework.
 
 * **[React](https://facebook.github.io/react/)** (16.x)
 * **[Webpack](https://webpack.js.org/)** (4.x)
 * **[Typescript](https://www.typescriptlang.org/)** (3.x)
+* **[Office UI Fabric](https://developer.microsoft.com/en-us/fabric#/) (7.x for react, 11.x for core)
 * **[Hot Module Replacement (HMR)](https://webpack.js.org/concepts/hot-module-replacement/)** using [React Hot Loader](https://github.com/gaearon/react-hot-loader) (4.x)
 * [Babel](http://babeljs.io/) (7.x)
 * [SASS](http://sass-lang.com/)
@@ -47,7 +48,3 @@ Command | Description
 `yarn run start` | (alias of `yarn run start-dev`)
 
 **Note**: replace `yarn` with `npm` in `package.json` if you use npm.
-
-## See also
-* [React Webpack Babel Starter](https://github.com/vikpe/react-webpack-babel-starter)
-* [Isomorphic Webapp Starter](https://github.com/vikpe/isomorphic-webapp-starter)
