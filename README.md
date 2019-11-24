@@ -1,4 +1,5 @@
-# Office UI Fabric Starter-kit with React, Webpack, & Typescript 
+# Office UI Fabric Starter-kit 
+## with React, Webpack, & Typescript 
 > Minimal starter with hot module replacement (HMR) for rapid development with the Office UI Fabric UX framework.
 
 This project is an extension of [vikpe's](https://github.com/vikpe) awesome **[React/Webpack/TypeScript starter-kit](https://github.com/vikpe/react-webpack-typescript-starter)**, configured to align with the UI Fabric design principles. If you are not using office-ui-fabric-react for building your UI/UX, then I highly suggest using his repo as a starting point instead of this one.
